@@ -1,0 +1,73 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - link "Papa John's UK Logo" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "Papa John's UK Logo" [ref=e7]
+        - generic [ref=e8]:
+          - text: 
+          - img "Lottie animation" [ref=e14] [cursor=pointer]:
+            - img [ref=e16]
+          - generic [ref=e20]:
+            - link " Sign In" [ref=e21] [cursor=pointer]:
+              - /url: /signin
+              - generic [ref=e22]:
+                - generic [ref=e23]: 
+                - generic [ref=e24]: Sign In
+            - text: 
+    - generic [ref=e25]:
+      - generic [ref=e26]:
+        - link " Back" [ref=e28] [cursor=pointer]:
+          - /url: javascript:void(0);
+          - generic [ref=e29]: 
+          - text: Back
+        - generic [ref=e31]:
+          - generic [ref=e32]:
+            - text: 
+            - heading "Priority from O2 Bundle 1 £38.37 £19.99" [level=1] [ref=e33]:
+              - generic [ref=e34]: Priority from O2 Bundle 1
+              - generic [ref=e35]: £38.37 £19.99
+          - generic [ref=e36]:
+            - generic [ref=e37]:
+              - generic [ref=e38]:
+                - generic [ref=e39] [cursor=pointer]:
+                  - heading "Feliz Navi-dough  Large Original" [level=3] [ref=e41]:
+                    - text: Feliz Navi-dough
+                    - generic [ref=e42]: 
+                    - generic [ref=e43]: Large Original
+                  - button "" [ref=e44]:
+                    - generic [ref=e45]: 
+                - text:                                                                                                                                                  
+              - generic [ref=e46]:
+                - generic [ref=e47] [cursor=pointer]:
+                  - heading "Chicken Tenders  + Garlic and Herb dip" [level=3] [ref=e49]:
+                    - text: Chicken Tenders
+                    - generic [ref=e50]: 
+                    - generic [ref=e51]: + Garlic and Herb dip
+                  - button "" [ref=e52]:
+                    - generic [ref=e53]: 
+                - text:                                                                          
+              - generic [ref=e54]:
+                - generic [ref=e55] [cursor=pointer]:
+                  - heading "Chocolately Orange Chunk - Ben & Jerry's™  Large tub" [level=3] [ref=e57]:
+                    - text: Chocolately Orange Chunk - Ben & Jerry's™
+                    - generic [ref=e58]: 
+                    - generic [ref=e59]: Large tub
+                  - button "" [ref=e60]:
+                    - generic [ref=e61]: 
+                - text:                                   
+            - generic [ref=e63] [cursor=pointer]:
+              - paragraph [ref=e65]:
+                - text: Any Large pizza, 1x Side, 1x Dessert
+                - link "Terms & Conditions" [ref=e66]:
+                  - /url: "#"
+              - generic [ref=e68]:
+                - paragraph [ref=e69]: Add
+                - paragraph [ref=e70]: £19.99
+      - text: 
+  - text:             􏠘
+```

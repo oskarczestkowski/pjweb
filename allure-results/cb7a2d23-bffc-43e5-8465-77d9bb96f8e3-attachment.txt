@@ -1,0 +1,3 @@
+Deal price: £19.99
+Price inside the deal:  £19.99
+Actual price: £19.99

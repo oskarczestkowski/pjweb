@@ -1,0 +1,2 @@
+Deal price: £19.99
+Price inside the deal:  undefined

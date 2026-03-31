@@ -1,0 +1,394 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - link "Papa John's UK Logo" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "Papa John's UK Logo" [ref=e7]
+        - generic [ref=e8]:
+          - list [ref=e10]:
+            - listitem [ref=e11]:
+              - link "Deals" [ref=e12] [cursor=pointer]:
+                - /url: /order/deals
+                - generic [ref=e13]: Deals
+            - listitem [ref=e14]:
+              - link "What's new" [ref=e15] [cursor=pointer]:
+                - /url: /order/whats-new-menu
+                - generic [ref=e16]: What's new
+            - listitem [ref=e17]:
+              - link "Pizzas" [ref=e18] [cursor=pointer]:
+                - /url: /order/menu#pizzas
+                - generic [ref=e19]: Pizzas
+            - listitem [ref=e20]:
+              - link "Sides" [ref=e21] [cursor=pointer]:
+                - /url: /order/menu#sides
+                - generic [ref=e22]: Sides
+            - listitem [ref=e23]:
+              - link "Desserts" [ref=e24] [cursor=pointer]:
+                - /url: /order/menu#desserts
+                - generic [ref=e25]: Desserts
+            - listitem [ref=e26]:
+              - link "Drinks" [ref=e27] [cursor=pointer]:
+                - /url: /order/menu#drinks
+                - generic [ref=e28]: Drinks
+          - text: 
+          - img "Lottie animation" [ref=e34] [cursor=pointer]:
+            - img [ref=e36]
+          - generic [ref=e40]:
+            - link " Sign In" [ref=e41] [cursor=pointer]:
+              - /url: /signin
+              - generic [ref=e42]:
+                - generic [ref=e43]: 
+                - generic [ref=e44]: Sign In
+            - text: 
+          - generic [ref=e47]:
+            - generic [ref=e48]:
+              - generic [ref=e49]:
+                - generic:
+                  - generic: 
+                - heading "Basket" [level=2] [ref=e50]
+                - link "Delivery Delivery ASAP V4 Menu Coding Store " [ref=e53] [cursor=pointer]:
+                  - /url: "#timeSetting"
+                  - img "Delivery" [ref=e54]
+                  - generic [ref=e56]:
+                    - paragraph [ref=e57]: Delivery ASAP V4 Menu Coding Store
+                    - generic [ref=e58]: 
+              - text:  
+              - generic [ref=e59]:
+                - generic [ref=e61] [cursor=pointer]:
+                  - generic [ref=e62]: Have an Allergy?
+                  - generic [ref=e64]: 
+                  - text: 
+                - generic [ref=e66] [cursor=pointer]:
+                  - generic [ref=e67]: Add Promo Code
+                  - generic [ref=e68]: 
+              - text: 
+            - text: 
+            - generic [ref=e69]:
+              - generic [ref=e70]:
+                - generic [ref=e71]: "Your Basket Contains: Gluten (Wheat), Milk, Mustard, Celery, Soya"
+                - list [ref=e72]:
+                  - listitem [ref=e73]:
+                    - generic [ref=e75]:
+                      - generic [ref=e76]:
+                        - generic [ref=e77]:
+                          - img "Offer Icon" [ref=e78]
+                          - heading "Priority from O2 Bundle 1" [level=4] [ref=e79]
+                        - generic [ref=e80]:
+                          - generic [ref=e81]: £35.37
+                          - generic [ref=e82]: £19.99
+                      - generic [ref=e83]:
+                        - generic [ref=e86]:
+                          - button "" [ref=e87] [cursor=pointer]:
+                            - generic [ref=e88]: 
+                          - button "" [ref=e89] [cursor=pointer]:
+                            - generic [ref=e90]: 
+                        - generic [ref=e91]:
+                          - generic [ref=e92]:
+                            - img [ref=e93]
+                            - generic [ref=e94]:
+                              - generic [ref=e95]: Create Your Own
+                              - text: Large Original
+                          - generic [ref=e96] [cursor=pointer]:
+                            - paragraph [ref=e97]:
+                              - generic [ref=e98]: ADD
+                              - img [ref=e99]
+                              - generic [ref=e100]: Stuffed Crust
+                            - paragraph [ref=e101]: £2.99
+                        - generic [ref=e103]:
+                          - img [ref=e104]
+                          - generic [ref=e105]:
+                            - generic [ref=e106]: Chicken Tenders
+                            - text: Regular Portion
+                            - generic [ref=e107]: + Garlic and Herb dip
+                        - generic [ref=e109]:
+                          - img [ref=e110]
+                          - generic [ref=e111]:
+                            - generic [ref=e112]: Chocolately Orange Chunk - Ben & Jerry's™
+                            - text: Large tub
+                - list
+              - generic [ref=e113]:
+                - heading "Want More?" [level=1] [ref=e114]
+                - generic [ref=e115]:
+                  - group "1 / 7" [ref=e116]:
+                    - generic [ref=e117]:
+                      - generic [ref=e118]:
+                        - img "Dips" [ref=e119]
+                        - img "vegan product" [ref=e120]
+                      - generic [ref=e121]: Dips
+                      - button "ADD £0.65" [ref=e122] [cursor=pointer]:
+                        - generic [ref=e123]: ADD
+                        - generic [ref=e124]: £0.65
+                  - group "2 / 7" [ref=e125]:
+                    - generic [ref=e126]:
+                      - img "Pepsi Max" [ref=e128]
+                      - generic [ref=e129]: Pepsi Max
+                      - button "ADD £3.19" [ref=e130] [cursor=pointer]:
+                        - generic [ref=e131]: ADD
+                        - generic [ref=e132]: £3.19
+                  - group "3 / 7" [ref=e133]:
+                    - generic [ref=e134]:
+                      - generic [ref=e135]:
+                        - img "Garlic Pizza Sticks" [ref=e136]
+                        - img [ref=e137]
+                      - generic [ref=e138]: Garlic Pizza Sticks
+                      - button "ADD £6.29" [ref=e139] [cursor=pointer]:
+                        - generic [ref=e140]: ADD
+                        - generic [ref=e141]: £6.29
+                  - group "4 / 7" [ref=e142]:
+                    - generic [ref=e143]:
+                      - img "Plain Roasted Chicken Wings" [ref=e145]
+                      - generic [ref=e146]: Plain Roasted Chicken Wings
+                      - button "ADD £6.89" [ref=e147] [cursor=pointer]:
+                        - generic [ref=e148]: ADD
+                        - generic [ref=e149]: £6.89
+                  - group "5 / 7" [ref=e150]:
+                    - generic [ref=e151]:
+                      - generic [ref=e152]:
+                        - img "Cookie Dough - Ben & Jerry's™" [ref=e153]
+                        - img [ref=e154]
+                      - generic [ref=e155]: Cookie Dough - Ben & Jerry's™
+                      - button "ADD £6.29" [ref=e156] [cursor=pointer]:
+                        - generic [ref=e157]: ADD
+                        - generic [ref=e158]: £6.29
+                  - group "6 / 7" [ref=e159]:
+                    - generic [ref=e160]:
+                      - generic [ref=e161]:
+                        - img "Mini Filled Doughnuts" [ref=e162]
+                        - img [ref=e163]
+                      - generic [ref=e164]: Mini Filled Doughnuts
+                      - button "ADD £5.29" [ref=e165] [cursor=pointer]:
+                        - generic [ref=e166]: ADD
+                        - generic [ref=e167]: £5.29
+                  - group "7 / 7" [ref=e168]:
+                    - generic [ref=e169]:
+                      - img "7UP Zero" [ref=e171]
+                      - generic [ref=e172]: 7UP Zero
+                      - button "ADD £3.19" [ref=e173] [cursor=pointer]:
+                        - generic [ref=e174]: ADD
+                        - generic [ref=e175]: £3.19
+            - generic [ref=e176]:
+              - generic [ref=e177] [cursor=pointer]:
+                - paragraph [ref=e178]: Want more?
+                - generic [ref=e179]: 
+              - generic [ref=e181]:
+                - generic [ref=e182]: Delivery Fee
+                - generic [ref=e183]: £2.99
+              - generic [ref=e186] [cursor=pointer]:
+                - generic [ref=e187]:
+                  - generic [ref=e188]:
+                    - generic [ref=e189]: "3"
+                    - img [ref=e191]
+                  - generic [ref=e192]: Checkout
+                - generic [ref=e193]: £22.98
+            - text:   
+      - text: 
+    - text:  
+    - generic [ref=e195]:
+      - generic [ref=e200]:
+        - generic [ref=e202]:
+          - generic [ref=e207]:
+            - group "1 / 4" [ref=e208] [cursor=pointer]:
+              - generic [ref=e209]:
+                - text: ANY
+                - heading "small pizza" [level=3] [ref=e210]
+              - img [ref=e211]
+              - button "Add £20.99 £10 " [ref=e213]:
+                - generic [ref=e214]:
+                  - generic [ref=e215]:
+                    - generic [ref=e216]: Add
+                    - generic [ref=e217]: £20.99
+                    - generic [ref=e218]: £10
+                  - generic [ref=e219]: 
+            - group "2 / 4" [ref=e220] [cursor=pointer]:
+              - generic [ref=e221]:
+                - text: ANY
+                - heading "medium pizza" [level=3] [ref=e222]
+              - img [ref=e223]
+              - button "Add £22.99 £12 " [ref=e225]:
+                - generic [ref=e226]:
+                  - generic [ref=e227]:
+                    - generic [ref=e228]: Add
+                    - generic [ref=e229]: £22.99
+                    - generic [ref=e230]: £12
+                  - generic [ref=e231]: 
+            - group "3 / 4" [ref=e232] [cursor=pointer]:
+              - generic [ref=e233]:
+                - text: ANY
+                - heading "large pizza" [level=3] [ref=e234]
+              - img [ref=e235]
+              - button "Add £24.99 £14 " [ref=e237]:
+                - generic [ref=e238]:
+                  - generic [ref=e239]:
+                    - generic [ref=e240]: Add
+                    - generic [ref=e241]: £24.99
+                    - generic [ref=e242]: £14
+                  - generic [ref=e243]: 
+            - group "4 / 4" [ref=e244] [cursor=pointer]:
+              - generic [ref=e245]:
+                - text: ANY
+                - heading "xxl pizza" [level=3] [ref=e246]
+              - img [ref=e247]
+              - button "Add £26.99 £16 " [ref=e249]:
+                - generic [ref=e250]:
+                  - generic [ref=e251]:
+                    - generic [ref=e252]: Add
+                    - generic [ref=e253]: £26.99
+                    - generic [ref=e254]: £16
+                  - generic [ref=e255]: 
+          - button "£69.25 £33 " [ref=e259] [cursor=pointer]:
+            - generic [ref=e260]:
+              - generic [ref=e261]:
+                - generic [ref=e262]: £69.25
+                - generic [ref=e263]: £33
+              - generic [ref=e264]: 
+        - generic [ref=e265]:
+          - heading "Vouchers" [level=2] [ref=e266]
+          - button "Add Promo Code " [ref=e267] [cursor=pointer]:
+            - text: Add Promo Code
+            - generic [ref=e268]: 
+        - generic [ref=e269]:
+          - button "25% Off £25  25% off your order when you spend £25 or more (excludes small portions, personal pizzas, ice cream, drinks & pastries)." [ref=e271] [cursor=pointer]:
+            - generic [ref=e272]:
+              - generic [ref=e274]:
+                - heading "25% Off £25" [level=3] [ref=e275]
+                - generic [ref=e276]: 
+              - generic [ref=e278]: 25% off your order when you spend £25 or more (excludes small portions, personal pizzas, ice cream, drinks & pastries).
+          - button "£5 off £10  Get £5 off your order when you spend £10 or more. (Excludes ice cream and drinks)" [ref=e284] [cursor=pointer]:
+            - generic [ref=e285]:
+              - generic [ref=e287]:
+                - heading "£5 off £10" [level=3] [ref=e288]
+                - generic [ref=e289]: 
+              - generic [ref=e291]: Get £5 off your order when you spend £10 or more. (Excludes ice cream and drinks)
+        - generic [ref=e296]: "*Cannot be used with any other promotion or deal"
+        - generic [ref=e297]:
+          - heading "Delivery Deals" [level=2] [ref=e298]
+          - combobox [ref=e299] [cursor=pointer]:
+            - option "Popularity" [selected]
+            - option "Price Low to High"
+            - option "Price High to Low"
+            - option "Value"
+        - generic [ref=e300]:
+          - button "badge Any 465ml Ben & Jerry’s £6.29 £5.49  icon 1x Ice Cream" [ref=e303] [cursor=pointer]:
+            - generic [ref=e305]:
+              - img "badge" [ref=e306]
+              - heading "Any 465ml Ben & Jerry’s" [level=3] [ref=e307]
+              - generic [ref=e308]:
+                - generic [ref=e309]: £6.29
+                - generic [ref=e310]: £5.49
+                - generic [ref=e311]: 
+            - generic [ref=e314]:
+              - img "icon" [ref=e315]
+              - paragraph [ref=e316]: 1x Ice Cream
+          - button "badge Buy an XXL Pizza and get two Sides FREE From £26.99  icon 1x XXL Pizza icon 2x Premium Sides" [ref=e320] [cursor=pointer]:
+            - generic [ref=e322]:
+              - img "badge" [ref=e323]
+              - heading "Buy an XXL Pizza and get two Sides FREE" [level=3] [ref=e324]
+              - generic [ref=e325]:
+                - generic [ref=e326]: From
+                - generic [ref=e327]: £26.99
+                - generic [ref=e328]: 
+            - generic [ref=e330]:
+              - generic [ref=e331]:
+                - img "icon" [ref=e332]
+                - paragraph [ref=e333]: 1x XXL Pizza
+              - generic [ref=e334]:
+                - img "icon" [ref=e335]
+                - paragraph [ref=e336]: 2x Premium Sides
+          - button "badge Free Red Bull When You Spend £25 From £0.00  icon 1x £25.00 icon 1x Drink" [ref=e340] [cursor=pointer]:
+            - generic [ref=e342]:
+              - img "badge" [ref=e343]
+              - heading "Free Red Bull When You Spend £25" [level=3] [ref=e344]
+              - generic [ref=e345]:
+                - generic [ref=e346]: From
+                - generic [ref=e347]: £0.00
+                - generic [ref=e348]: 
+            - generic [ref=e350]:
+              - generic [ref=e351]:
+                - img "icon" [ref=e352]
+                - paragraph [ref=e353]: 1x £25.00
+              - generic [ref=e354]:
+                - img "icon" [ref=e355]
+                - paragraph [ref=e356]: 1x Drink
+          - button "badge Priority from O2 Bundle 1 £40.37 £19.99  icon 1x Large Pizza icon 1x Premium Side icon 1x Dessert" [ref=e360] [cursor=pointer]:
+            - generic [ref=e362]:
+              - img "badge" [ref=e363]
+              - heading "Priority from O2 Bundle 1" [level=3] [ref=e364]
+              - generic [ref=e365]:
+                - generic [ref=e366]: £40.37
+                - generic [ref=e367]: £19.99
+                - generic [ref=e368]: 
+            - generic [ref=e370]:
+              - generic [ref=e371]:
+                - img "icon" [ref=e372]
+                - paragraph [ref=e373]: 1x Large Pizza
+              - generic [ref=e374]:
+                - img "icon" [ref=e375]
+                - paragraph [ref=e376]: 1x Premium Side
+              - generic [ref=e377]:
+                - img "icon" [ref=e378]
+                - paragraph [ref=e379]: 1x Dessert
+          - button "badge Priority from O2 Bundle 2 £65.36 £29.99  icon 2x Large Pizzas icon 1x Premium Side icon 1x Dessert" [ref=e383] [cursor=pointer]:
+            - generic [ref=e385]:
+              - img "badge" [ref=e386]
+              - heading "Priority from O2 Bundle 2" [level=3] [ref=e387]
+              - generic [ref=e388]:
+                - generic [ref=e389]: £65.36
+                - generic [ref=e390]: £29.99
+                - generic [ref=e391]: 
+            - generic [ref=e393]:
+              - generic [ref=e394]:
+                - img "icon" [ref=e395]
+                - paragraph [ref=e396]: 2x Large Pizzas
+              - generic [ref=e397]:
+                - img "icon" [ref=e398]
+                - paragraph [ref=e399]: 1x Premium Side
+              - generic [ref=e400]:
+                - img "icon" [ref=e401]
+                - paragraph [ref=e402]: 1x Dessert
+          - button "badge Small Pizza £6.00 £20.99 £6.00  icon 1x Small Pizza" [ref=e406] [cursor=pointer]:
+            - generic [ref=e408]:
+              - img "badge" [ref=e409]
+              - heading "Small Pizza £6.00" [level=3] [ref=e410]
+              - generic [ref=e411]:
+                - generic [ref=e412]: £20.99
+                - generic [ref=e413]: £6.00
+                - generic [ref=e414]: 
+            - generic [ref=e417]:
+              - img "icon" [ref=e418]
+              - paragraph [ref=e419]: 1x Small Pizza
+          - generic [ref=e422]:
+            - button "badge Big Match Bundle £65.76 £29.99  icon 2x Large Pizzas icon 2x Classic Sides" [ref=e423] [cursor=pointer]:
+              - generic [ref=e425]:
+                - img "badge" [ref=e426]
+                - heading "Big Match Bundle" [level=3] [ref=e427]
+                - generic [ref=e428]:
+                  - generic [ref=e429]: £65.76
+                  - generic [ref=e430]: £29.99
+                  - generic [ref=e431]: 
+              - generic [ref=e433]:
+                - generic [ref=e434]:
+                  - img "icon" [ref=e435]
+                  - paragraph [ref=e436]: 2x Large Pizzas
+                - generic [ref=e437]:
+                  - img "icon" [ref=e438]
+                  - paragraph [ref=e439]: 2x Classic Sides
+            - button "Upgrade a Side to a Premium Side for £1 £64.96 £30.99 " [ref=e440]:
+              - generic [ref=e441]: Upgrade a Side to a Premium Side for £1
+              - generic [ref=e442]:
+                - generic [ref=e443]: £64.96
+                - generic [ref=e444]: £30.99
+                - generic [ref=e446]: 
+        - generic [ref=e447]:
+          - generic [ref=e448]: 
+          - generic [ref=e449]:
+            - link "Find out more" [ref=e450] [cursor=pointer]:
+              - /url: /terms-and-conditions/online-terms-and-conditions
+            - text: about how we calculate our deal savings
+      - img [ref=e453] [cursor=pointer]
+    - text:  
+  - text:             􏠘
+```
