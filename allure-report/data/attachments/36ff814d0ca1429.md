@@ -1,0 +1,157 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e5]:
+        - banner [ref=e6]:
+          - generic [ref=e9]:
+            - img "Lottie animation" [ref=e15] [cursor=pointer]:
+              - img [ref=e17]
+            - generic [ref=e21]:
+              - link " Sign In" [ref=e22] [cursor=pointer]:
+                - /url: /signin
+                - generic [ref=e23]:
+                  - generic [ref=e24]: 
+                  - generic [ref=e25]: Sign In
+              - text: 
+        - generic [ref=e26]:
+          - text: 
+          - generic [ref=e27]:
+            - link "Papa John's UK Logo" [ref=e29] [cursor=pointer]:
+              - /url: /
+              - img "Papa John's UK Logo" [ref=e30]
+            - generic [ref=e31]:
+              - heading "PIZZA IS JUST A POSTCODE AWAY..." [level=2] [ref=e32]
+              - generic [ref=e34]:
+                - textbox "Enter postcode to start your order" [ref=e35]
+                - generic: 
+              - generic [ref=e36]:
+                - button "Collection" [ref=e38] [cursor=pointer]
+                - button "Delivery" [ref=e40] [cursor=pointer]
+              - text: 
+      - img [ref=e42]
+      - generic [ref=e46]:
+        - generic [ref=e49] [cursor=pointer]: The Tandoori Menu is back!
+        - link [ref=e50] [cursor=pointer]:
+          - /url: /devoted-to-the-dough
+          - generic [ref=e52]: Great pizza doesn’t happen by accident
+      - generic [ref=e54]:
+        - heading "DEVOTED TO THE DOUGH" [level=1] [ref=e55]
+        - paragraph [ref=e57]: We know a thing or two about pizza. We start with fresh dough, layer on signature tomato sauce, and pile on next-level toppings. But the key ingredient at Papa Johns? Serving you up an experience that’s as memorable as our flavours.
+    - contentinfo [ref=e58]:
+      - generic [ref=e59]:
+        - generic [ref=e60]:
+          - generic [ref=e61]:
+            - generic [ref=e62]: Discover
+            - list [ref=e63]:
+              - listitem [ref=e64]:
+                - link "Our Locations" [ref=e65] [cursor=pointer]:
+                  - /url: /stores
+              - listitem [ref=e66]:
+                - link "Our Menu" [ref=e67] [cursor=pointer]:
+                  - /url: /menu
+              - listitem [ref=e68]:
+                - link "Our Deals" [ref=e69] [cursor=pointer]:
+                  - /url: /deals
+              - listitem [ref=e70]:
+                - link "Our Ingredients" [ref=e71] [cursor=pointer]:
+                  - /url: /menu/ingredients
+              - listitem [ref=e72]:
+                - link "Our Limited Time Only Menu" [ref=e73] [cursor=pointer]:
+                  - /url: /menu/limited-time-offers
+              - listitem [ref=e74]:
+                - link "Our Allergens & Nutritional Info" [ref=e75] [cursor=pointer]:
+                  - /url: /allergens-and-nutrition
+          - generic [ref=e76]:
+            - generic [ref=e77]: Help & Support
+            - list [ref=e78]:
+              - listitem [ref=e79]:
+                - link "Contact Us" [ref=e80] [cursor=pointer]:
+                  - /url: /customerservice
+              - listitem [ref=e81]:
+                - link "Manage Marketing Preferences" [ref=e82] [cursor=pointer]:
+                  - /url: /unsubscribe
+              - listitem [ref=e83]:
+                - link "Allergen & Calorie Info" [ref=e84] [cursor=pointer]:
+                  - /url: /static/assets/pdfs/nutritional-information.pdf
+          - generic [ref=e85]:
+            - generic [ref=e86]: About
+            - list [ref=e87]:
+              - listitem [ref=e88]:
+                - link "About Us" [ref=e89] [cursor=pointer]:
+                  - /url: /about-us
+              - listitem [ref=e90]:
+                - link "Animal Welfare" [ref=e91] [cursor=pointer]:
+                  - /url: /animal-welfare
+              - listitem [ref=e92]:
+                - link "Recycling" [ref=e93] [cursor=pointer]:
+                  - /url: /recycling
+              - listitem [ref=e94]:
+                - link "Franchise Opportunities" [ref=e95] [cursor=pointer]:
+                  - /url: https://inside.papajohns.co.uk/franchising/
+              - listitem [ref=e96]:
+                - link "Jobs" [ref=e97] [cursor=pointer]:
+                  - /url: https://inside.papajohns.co.uk/careers/
+              - listitem [ref=e98]:
+                - link "Blog" [ref=e99] [cursor=pointer]:
+                  - /url: https://blog.papajohns.co.uk/
+          - generic [ref=e100]:
+            - generic [ref=e101]: Policies
+            - list [ref=e102]:
+              - listitem [ref=e103]:
+                - link "Terms & Conditions" [ref=e104] [cursor=pointer]:
+                  - /url: /terms-and-conditions/online-terms-and-conditions
+              - listitem [ref=e105]:
+                - link "Privacy Notice" [ref=e106] [cursor=pointer]:
+                  - /url: /privacy-notice
+              - listitem [ref=e107]:
+                - link "Cookie Policy" [ref=e108] [cursor=pointer]:
+                  - /url: /cookie-policy
+              - listitem [ref=e109]:
+                - link "Modern Day Slavery Policy" [ref=e110] [cursor=pointer]:
+                  - /url: /static/assets/pdfs/modern-slavery-policy.pdf
+              - listitem [ref=e111]:
+                - link "Investor Relations" [ref=e112] [cursor=pointer]:
+                  - /url: https://ir.papajohns.com/
+          - generic [ref=e113]:
+            - generic [ref=e114]:
+              - link [ref=e115] [cursor=pointer]:
+                - /url: https://www.instagram.com/papajohnsuk/
+                - img [ref=e116]
+              - link [ref=e118] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@papajohnsukofficial
+                - img [ref=e119]
+              - link [ref=e121] [cursor=pointer]:
+                - /url: https://www.facebook.com/papajohnsuk
+                - img [ref=e122]
+              - link [ref=e125] [cursor=pointer]:
+                - /url: https://twitter.com/papajohnsuk
+                - img [ref=e126]
+            - generic [ref=e128]:
+              - link "download on andoird app store" [ref=e129] [cursor=pointer]:
+                - /url: https://play.google.com/store/apps/details?id=uk.co.papajohns.ppjqg&hl=en_GB&gl=US
+                - img "download on andoird app store" [ref=e130]
+              - link "donwload on apple app store" [ref=e131] [cursor=pointer]:
+                - /url: https://apps.apple.com/gb/app/papa-johns/id966491188
+                - img "donwload on apple app store" [ref=e132]
+        - generic [ref=e133]: Papa John's (GB) Ltd 2026
+  - text:             􏠘
+  - region "Cookie banner" [active] [ref=e135]:
+    - alertdialog "Manage Your Cookies" [ref=e136]:
+      - generic [ref=e137]:
+        - generic [ref=e138]:
+          - generic:
+            - heading "Manage Your Cookies" [level=2] [ref=e139]
+            - generic [ref=e140]:
+              - text: By clicking “Accept All”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+              - link "More information about your privacy, opens in a new tab" [ref=e141] [cursor=pointer]:
+                - /url: https://www.papajohns.co.uk/cookie-policy
+                - text: Papa John's cookie policy
+        - generic [ref=e143]:
+          - generic [ref=e144]:
+            - button "Reject All" [ref=e145] [cursor=pointer]
+            - button "Accept All" [ref=e146] [cursor=pointer]
+          - button "Cookies Settings" [ref=e147] [cursor=pointer]
+```

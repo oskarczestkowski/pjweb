@@ -1,0 +1,78 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - link "Papa John's UK Logo" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "Papa John's UK Logo" [ref=e7]
+        - generic [ref=e8]:
+          - list [ref=e10]:
+            - listitem [ref=e11]:
+              - link "Deals" [ref=e12] [cursor=pointer]:
+                - /url: /order/deals
+                - generic [ref=e13]: Deals
+            - listitem [ref=e14]:
+              - link "What's new" [ref=e15] [cursor=pointer]:
+                - /url: /order/whats-new-menu
+                - generic [ref=e16]: What's new
+            - listitem [ref=e17]:
+              - link "Pizzas" [ref=e18] [cursor=pointer]:
+                - /url: "#pizzas"
+                - generic [ref=e19]: Pizzas
+            - listitem [ref=e20]:
+              - link "Papadias" [ref=e21] [cursor=pointer]:
+                - /url: "#papadias"
+                - generic [ref=e22]: Papadias
+            - listitem [ref=e23]:
+              - link "Sides" [ref=e24] [cursor=pointer]:
+                - /url: "#sides"
+                - generic [ref=e25]: Sides
+            - listitem [ref=e26]:
+              - link "Desserts" [ref=e27] [cursor=pointer]:
+                - /url: "#desserts"
+                - generic [ref=e28]: Desserts
+            - listitem [ref=e29]:
+              - link "Drinks" [ref=e30] [cursor=pointer]:
+                - /url: "#drinks"
+                - generic [ref=e31]: Drinks
+          - img "Lottie animation" [ref=e37] [cursor=pointer]:
+            - img [ref=e39]
+          - generic [ref=e43]:
+            - link " Sign In" [ref=e44] [cursor=pointer]:
+              - /url: /signin
+              - generic [ref=e45]:
+                - generic [ref=e46]: 
+                - generic [ref=e47]: Sign In
+            - text: 
+          - generic [ref=e50]:
+            - generic [ref=e51]:
+              - generic [ref=e52]:
+                - generic:
+                  - generic: 
+                - heading "Basket" [level=2] [ref=e53]
+                - link "Collection" [ref=e56] [cursor=pointer]:
+                  - /url: "#timeSetting"
+                  - img "Collection" [ref=e57]
+              - text:  
+              - generic [ref=e58]:
+                - generic [ref=e60] [cursor=pointer]:
+                  - generic [ref=e61]: Have an Allergy?
+                  - generic [ref=e63]: 
+                  - text: 
+                - generic [ref=e65] [cursor=pointer]:
+                  - generic [ref=e66]: Add Promo Code
+                  - generic [ref=e67]: 
+            - text: 
+      - text: 
+    - text:  
+    - text:  
+  - text:           
+  - generic [ref=e77]:
+    - img [ref=e78]
+    - img "Lottie animation" [ref=e81]:
+      - img [ref=e83]
+  - text:  􏠘
+```

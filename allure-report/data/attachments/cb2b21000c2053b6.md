@@ -1,0 +1,140 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e5]:
+      - banner [ref=e6]:
+        - generic [ref=e9]:
+          - img "Lottie animation" [ref=e15] [cursor=pointer]:
+            - img [ref=e17]
+          - generic [ref=e21]:
+            - link " Sign In" [ref=e22] [cursor=pointer]:
+              - /url: /signin
+              - generic [ref=e23]:
+                - generic [ref=e24]: 
+                - generic [ref=e25]: Sign In
+            - text: 
+      - generic [ref=e26]:
+        - generic [ref=e28]: 
+        - text:  
+    - contentinfo [ref=e30]:
+      - generic [ref=e31]:
+        - generic [ref=e32]:
+          - generic [ref=e33]:
+            - generic [ref=e34]: Discover
+            - list [ref=e35]:
+              - listitem [ref=e36]:
+                - link "Our Locations" [ref=e37] [cursor=pointer]:
+                  - /url: /stores
+              - listitem [ref=e38]:
+                - link "Our Menu" [ref=e39] [cursor=pointer]:
+                  - /url: /menu
+              - listitem [ref=e40]:
+                - link "Our Deals" [ref=e41] [cursor=pointer]:
+                  - /url: /deals
+              - listitem [ref=e42]:
+                - link "Our Ingredients" [ref=e43] [cursor=pointer]:
+                  - /url: /menu/ingredients
+              - listitem [ref=e44]:
+                - link "Our Limited Time Only Menu" [ref=e45] [cursor=pointer]:
+                  - /url: /menu/limited-time-offers
+              - listitem [ref=e46]:
+                - link "Our Allergens & Nutritional Info" [ref=e47] [cursor=pointer]:
+                  - /url: /allergens-and-nutrition
+          - generic [ref=e48]:
+            - generic [ref=e49]: Help & Support
+            - list [ref=e50]:
+              - listitem [ref=e51]:
+                - link "Contact Us" [ref=e52] [cursor=pointer]:
+                  - /url: /customerservice
+              - listitem [ref=e53]:
+                - link "Manage Marketing Preferences" [ref=e54] [cursor=pointer]:
+                  - /url: /unsubscribe
+              - listitem [ref=e55]:
+                - link "Allergen & Calorie Info" [ref=e56] [cursor=pointer]:
+                  - /url: /static/assets/pdfs/nutritional-information.pdf
+          - generic [ref=e57]:
+            - generic [ref=e58]: About
+            - list [ref=e59]:
+              - listitem [ref=e60]:
+                - link "About Us" [ref=e61] [cursor=pointer]:
+                  - /url: /about-us
+              - listitem [ref=e62]:
+                - link "Animal Welfare" [ref=e63] [cursor=pointer]:
+                  - /url: /animal-welfare
+              - listitem [ref=e64]:
+                - link "Recycling" [ref=e65] [cursor=pointer]:
+                  - /url: /recycling
+              - listitem [ref=e66]:
+                - link "Franchise Opportunities" [ref=e67] [cursor=pointer]:
+                  - /url: https://inside.papajohns.co.uk/franchising/
+              - listitem [ref=e68]:
+                - link "Jobs" [ref=e69] [cursor=pointer]:
+                  - /url: https://inside.papajohns.co.uk/careers/
+              - listitem [ref=e70]:
+                - link "Blog" [ref=e71] [cursor=pointer]:
+                  - /url: https://blog.papajohns.co.uk/
+          - generic [ref=e72]:
+            - generic [ref=e73]: Policies
+            - list [ref=e74]:
+              - listitem [ref=e75]:
+                - link "Terms & Conditions" [ref=e76] [cursor=pointer]:
+                  - /url: /terms-and-conditions/online-terms-and-conditions
+              - listitem [ref=e77]:
+                - link "Privacy Notice" [ref=e78] [cursor=pointer]:
+                  - /url: /privacy-notice
+              - listitem [ref=e79]:
+                - link "Cookie Policy" [ref=e80] [cursor=pointer]:
+                  - /url: /cookie-policy
+              - listitem [ref=e81]:
+                - link "Modern Day Slavery Policy" [ref=e82] [cursor=pointer]:
+                  - /url: /static/assets/pdfs/modern-slavery-policy.pdf
+              - listitem [ref=e83]:
+                - link "Investor Relations" [ref=e84] [cursor=pointer]:
+                  - /url: https://ir.papajohns.com/
+          - generic [ref=e85]:
+            - generic [ref=e86]:
+              - link [ref=e87] [cursor=pointer]:
+                - /url: https://www.instagram.com/papajohnsuk/
+                - img [ref=e88]
+              - link [ref=e90] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@papajohnsukofficial
+                - img [ref=e91]
+              - link [ref=e93] [cursor=pointer]:
+                - /url: https://www.facebook.com/papajohnsuk
+                - img [ref=e94]
+              - link [ref=e97] [cursor=pointer]:
+                - /url: https://twitter.com/papajohnsuk
+                - img [ref=e98]
+            - generic [ref=e100]:
+              - link "download on andoird app store" [ref=e101] [cursor=pointer]:
+                - /url: https://play.google.com/store/apps/details?id=uk.co.papajohns.ppjqg&hl=en_GB&gl=US
+                - img "download on andoird app store" [ref=e102]
+              - link "donwload on apple app store" [ref=e103] [cursor=pointer]:
+                - /url: https://apps.apple.com/gb/app/papa-johns/id966491188
+                - img "donwload on apple app store" [ref=e104]
+        - generic [ref=e105]: Papa John's (GB) Ltd 2026
+  - text:           
+  - generic [ref=e106]:
+    - img [ref=e107]
+    - img "Lottie animation" [ref=e110]:
+      - img [ref=e112]
+  - text:  􏠘
+  - region "Cookie banner" [active] [ref=e150]:
+    - alertdialog "Manage Your Cookies" [ref=e151]:
+      - generic [ref=e152]:
+        - generic [ref=e153]:
+          - generic:
+            - heading "Manage Your Cookies" [level=2] [ref=e154]
+            - generic [ref=e155]:
+              - text: By clicking “Accept All”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
+              - link "More information about your privacy, opens in a new tab" [ref=e156] [cursor=pointer]:
+                - /url: https://www.papajohns.co.uk/cookie-policy
+                - text: Papa John's cookie policy
+        - generic [ref=e158]:
+          - generic [ref=e159]:
+            - button "Reject All" [ref=e160] [cursor=pointer]
+            - button "Accept All" [ref=e161] [cursor=pointer]
+          - button "Cookies Settings" [ref=e162] [cursor=pointer]
+```

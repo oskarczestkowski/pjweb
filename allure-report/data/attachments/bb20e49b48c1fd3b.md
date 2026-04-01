@@ -1,0 +1,60 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - link "Papa John's UK Logo" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "Papa John's UK Logo" [ref=e7]
+        - generic [ref=e8]:
+          - text: 
+          - img "Lottie animation" [ref=e14] [cursor=pointer]:
+            - img [ref=e16]
+          - generic [ref=e20]:
+            - link " Sign In" [ref=e21] [cursor=pointer]:
+              - /url: /signin
+              - generic [ref=e22]:
+                - generic [ref=e23]: 
+                - generic [ref=e24]: Sign In
+            - text: 
+    - generic [ref=e25]:
+      - generic [ref=e26]:
+        - link " Back" [ref=e28] [cursor=pointer]:
+          - /url: javascript:void(0);
+          - generic [ref=e29]: 
+          - text: Back
+        - generic [ref=e31]:
+          - generic [ref=e32]:
+            - text: 
+            - heading "Priority from O2 Bundle 1 £40.37 £19.99" [level=1] [ref=e33]:
+              - generic [ref=e34]: Priority from O2 Bundle 1
+              - generic [ref=e35]: £40.37 £19.99
+          - generic [ref=e36]:
+            - generic [ref=e37]:
+              - generic [ref=e38]:
+                - generic [ref=e39] [cursor=pointer]:
+                  - heading "Select Large Pizza" [level=3] [ref=e41]
+                  - button "" [ref=e42]:
+                    - generic [ref=e43]: 
+                - generic:                                                                                                                                               
+              - generic [ref=e44]:
+                - generic [ref=e45] [cursor=pointer]:
+                  - heading "Select Side" [level=3] [ref=e47]
+                  - button "" [ref=e48]:
+                    - generic [ref=e49]: 
+                - generic:                                                                          
+              - generic [ref=e50]:
+                - generic [ref=e51] [cursor=pointer]:
+                  - heading "Select Dessert" [level=3] [ref=e53]
+                  - button "" [ref=e54]:
+                    - generic [ref=e55]: 
+                - generic:                                   
+            - paragraph [ref=e59] [cursor=pointer]:
+              - text: Any Large pizza, 1x Side, 1x Dessert
+              - link "Terms & Conditions" [ref=e60]:
+                - /url: "#"
+      - text: 
+  - text:             􏠘
+```

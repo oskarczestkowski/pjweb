@@ -1,0 +1,72 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - link "Papa John's UK Logo" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img "Papa John's UK Logo" [ref=e7]
+        - generic [ref=e8]:
+          - text: 
+          - img "Lottie animation" [ref=e14] [cursor=pointer]:
+            - img [ref=e16]
+          - generic [ref=e20]:
+            - link " Sign In" [ref=e21] [cursor=pointer]:
+              - /url: /signin
+              - generic [ref=e22]:
+                - generic [ref=e23]: 
+                - generic [ref=e24]: Sign In
+            - text: 
+    - generic [ref=e25]:
+      - generic [ref=e26]:
+        - link " Back" [ref=e28] [cursor=pointer]:
+          - /url: javascript:void(0);
+          - generic [ref=e29]: 
+          - text: Back
+        - generic [ref=e31]:
+          - generic [ref=e32]:
+            - text: 
+            - heading "Priority from O2 Bundle 2 £65.36 £29.99" [level=1] [ref=e33]:
+              - generic [ref=e34]: Priority from O2 Bundle 2
+              - generic [ref=e35]: £65.36 £29.99
+          - generic [ref=e36]:
+            - generic [ref=e37]:
+              - generic [ref=e38]:
+                - generic [ref=e39] [cursor=pointer]:
+                  - heading "Cheese & Tomato (+£2.99)  Large Cheddar Stuffed Crust" [level=3] [ref=e41]:
+                    - text: Cheese & Tomato (+£2.99)
+                    - generic [ref=e42]: 
+                    - generic [ref=e43]: Large Cheddar Stuffed Crust
+                  - button "" [ref=e44]:
+                    - generic [ref=e45]: 
+                - text:                                                                                                                                               
+              - generic [ref=e46]:
+                - generic [ref=e47] [cursor=pointer]:
+                  - heading "Double Pepperoni (+£2.99)  Large Cheddar Stuffed Crust" [level=3] [ref=e49]:
+                    - text: Double Pepperoni (+£2.99)
+                    - generic [ref=e50]: 
+                    - generic [ref=e51]: Large Cheddar Stuffed Crust
+                  - button "" [ref=e52]:
+                    - generic [ref=e53]: 
+                - text:                                                                                                                                               
+              - generic [ref=e54]:
+                - generic [ref=e55] [cursor=pointer]:
+                  - heading "Select Side" [level=3] [ref=e57]
+                  - button "" [ref=e58]:
+                    - generic [ref=e59]: 
+                - generic:                                                                          
+              - generic [ref=e60]:
+                - generic [ref=e61] [cursor=pointer]:
+                  - heading "Select Dessert" [level=3] [ref=e63]
+                  - button "" [ref=e64]:
+                    - generic [ref=e65]: 
+                - generic:                                   
+            - paragraph [ref=e69] [cursor=pointer]:
+              - text: 2x Large Pizzas and 1x side 1x Dessert
+              - link "Terms & Conditions" [ref=e70]:
+                - /url: "#"
+      - text: 
+  - text:             􏠘
+```

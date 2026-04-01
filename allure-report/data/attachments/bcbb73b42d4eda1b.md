@@ -1,0 +1,123 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e5]:
+      - banner [ref=e6]:
+        - generic [ref=e9]:
+          - img "Lottie animation" [ref=e15] [cursor=pointer]
+          - generic [ref=e17]:
+            - link " Sign In" [ref=e18] [cursor=pointer]:
+              - /url: /signin
+              - generic [ref=e19]:
+                - generic [ref=e20]: 
+                - generic [ref=e21]: Sign In
+            - text: 
+      - generic [ref=e22]:
+        - generic [ref=e24]: 
+        - text:  
+    - contentinfo [ref=e26]:
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]: Discover
+            - list [ref=e31]:
+              - listitem [ref=e32]:
+                - link "Our Locations" [ref=e33] [cursor=pointer]:
+                  - /url: /stores
+              - listitem [ref=e34]:
+                - link "Our Menu" [ref=e35] [cursor=pointer]:
+                  - /url: /menu
+              - listitem [ref=e36]:
+                - link "Our Deals" [ref=e37] [cursor=pointer]:
+                  - /url: /deals
+              - listitem [ref=e38]:
+                - link "Our Ingredients" [ref=e39] [cursor=pointer]:
+                  - /url: /menu/ingredients
+              - listitem [ref=e40]:
+                - link "Our Limited Time Only Menu" [ref=e41] [cursor=pointer]:
+                  - /url: /menu/limited-time-offers
+              - listitem [ref=e42]:
+                - link "Our Allergens & Nutritional Info" [ref=e43] [cursor=pointer]:
+                  - /url: /allergens-and-nutrition
+          - generic [ref=e44]:
+            - generic [ref=e45]: Help & Support
+            - list [ref=e46]:
+              - listitem [ref=e47]:
+                - link "Contact Us" [ref=e48] [cursor=pointer]:
+                  - /url: /customerservice
+              - listitem [ref=e49]:
+                - link "Manage Marketing Preferences" [ref=e50] [cursor=pointer]:
+                  - /url: /unsubscribe
+              - listitem [ref=e51]:
+                - link "Allergen & Calorie Info" [ref=e52] [cursor=pointer]:
+                  - /url: /static/assets/pdfs/nutritional-information.pdf
+          - generic [ref=e53]:
+            - generic [ref=e54]: About
+            - list [ref=e55]:
+              - listitem [ref=e56]:
+                - link "About Us" [ref=e57] [cursor=pointer]:
+                  - /url: /about-us
+              - listitem [ref=e58]:
+                - link "Animal Welfare" [ref=e59] [cursor=pointer]:
+                  - /url: /animal-welfare
+              - listitem [ref=e60]:
+                - link "Recycling" [ref=e61] [cursor=pointer]:
+                  - /url: /recycling
+              - listitem [ref=e62]:
+                - link "Franchise Opportunities" [ref=e63] [cursor=pointer]:
+                  - /url: https://inside.papajohns.co.uk/franchising/
+              - listitem [ref=e64]:
+                - link "Jobs" [ref=e65] [cursor=pointer]:
+                  - /url: https://inside.papajohns.co.uk/careers/
+              - listitem [ref=e66]:
+                - link "Blog" [ref=e67] [cursor=pointer]:
+                  - /url: https://blog.papajohns.co.uk/
+          - generic [ref=e68]:
+            - generic [ref=e69]: Policies
+            - list [ref=e70]:
+              - listitem [ref=e71]:
+                - link "Terms & Conditions" [ref=e72] [cursor=pointer]:
+                  - /url: /terms-and-conditions/online-terms-and-conditions
+              - listitem [ref=e73]:
+                - link "Privacy Notice" [ref=e74] [cursor=pointer]:
+                  - /url: /privacy-notice
+              - listitem [ref=e75]:
+                - link "Cookie Policy" [ref=e76] [cursor=pointer]:
+                  - /url: /cookie-policy
+              - listitem [ref=e77]:
+                - link "Modern Day Slavery Policy" [ref=e78] [cursor=pointer]:
+                  - /url: /static/assets/pdfs/modern-slavery-policy.pdf
+              - listitem [ref=e79]:
+                - link "Investor Relations" [ref=e80] [cursor=pointer]:
+                  - /url: https://ir.papajohns.com/
+          - generic [ref=e81]:
+            - generic [ref=e82]:
+              - link [ref=e83] [cursor=pointer]:
+                - /url: https://www.instagram.com/papajohnsuk/
+                - img [ref=e84]
+              - link [ref=e86] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@papajohnsukofficial
+                - img [ref=e87]
+              - link [ref=e89] [cursor=pointer]:
+                - /url: https://www.facebook.com/papajohnsuk
+                - img [ref=e90]
+              - link [ref=e93] [cursor=pointer]:
+                - /url: https://twitter.com/papajohnsuk
+                - img [ref=e94]
+            - generic [ref=e96]:
+              - link "download on andoird app store" [ref=e97] [cursor=pointer]:
+                - /url: https://play.google.com/store/apps/details?id=uk.co.papajohns.ppjqg&hl=en_GB&gl=US
+                - img "download on andoird app store" [ref=e98]
+              - link "donwload on apple app store" [ref=e99] [cursor=pointer]:
+                - /url: https://apps.apple.com/gb/app/papa-johns/id966491188
+                - img "donwload on apple app store" [ref=e100]
+        - generic [ref=e101]: Papa John's (GB) Ltd 2026
+  - text:           
+  - generic [ref=e102]:
+    - img [ref=e103]
+    - img "Lottie animation" [ref=e106]:
+      - img [ref=e108]
+  - text:  􏠘
+```
